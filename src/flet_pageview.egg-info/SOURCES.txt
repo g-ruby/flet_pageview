@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/flet_pageview/__init__.py
+src/flet_pageview/flet_pageview.py
+src/flet_pageview.egg-info/PKG-INFO
+src/flet_pageview.egg-info/SOURCES.txt
+src/flet_pageview.egg-info/dependency_links.txt
+src/flet_pageview.egg-info/requires.txt
+src/flet_pageview.egg-info/top_level.txt
+src/flutter/flet_pageview/CHANGELOG.md
+src/flutter/flet_pageview/LICENSE
+src/flutter/flet_pageview/README.md
+src/flutter/flet_pageview/pubspec.yaml
+src/flutter/flet_pageview/lib/flet_pageview.dart
+src/flutter/flet_pageview/lib/src/create_control.dart
+src/flutter/flet_pageview/lib/src/flet_pageview.dart
