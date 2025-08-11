@@ -1,4 +1,3 @@
-README.md
 pyproject.toml
 src/flet_pageview/__init__.py
 src/flet_pageview/flet_pageview.py
