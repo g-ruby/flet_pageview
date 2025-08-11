@@ -1,1 +1,1 @@
-from flet_pageview import FletPageView
+from .flet_pageview import FletPageView
