@@ -1,6 +1,6 @@
 [project]
 name = "flet-pageview"
-version = "0.1.0"
+version = "0.1.1"
 description = "FletPageview control for Flet"
 requires-python = ">=3.9"
 authors = [
